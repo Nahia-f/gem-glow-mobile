@@ -1,4 +1,5 @@
-Welcome to this Jewellery Brand
+Welcome to this Jewellery Brand.  
+
 
 
 
